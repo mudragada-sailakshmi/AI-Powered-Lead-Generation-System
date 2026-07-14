@@ -276,26 +276,4 @@ SkillWallet
 
 GitHub
 
-Ideal Institute of Technology
-
-
-
----
-
-Suggested GitHub Repository Structure
-
-AI-Powered-Lead-Generation-System/
-│
-├── README.md
-├── Project_Report.pdf
-├── Documentation/
-├── Screenshots/
-│   ├── Salesforce_Login.png
-│   ├── Lead_Object.png
-│   ├── Validation_Rule.png
-│   ├── Lightning_App.png
-│   └── SkillWallet.png
-├── Demo_Video_Link.txt
-└── LICENSE
-
-This README is suitable for a college project repository and clearly documents the work you've completed in Salesforce and SkillWallet.
+Ideal Institute Of Technology 
